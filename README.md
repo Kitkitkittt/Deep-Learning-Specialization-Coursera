@@ -19,6 +19,8 @@
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
+For repository maintenance, see the [swarm-ready handoff](SWARM_READY.md).
+
 ## What's New
 This Specialization was updated in April 2021 to include developments in deep learning and programming frameworks. One of the most major changes was shifting from Tensorflow 1 to Tensorflow 2. Also, new materials were added.
 However, Most of the old online repositories still don't have old codes.
@@ -55,7 +57,7 @@ Happy Learning :)
   - [W2A2 - Transfer Learning with MobileNet](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks/week2/2%20Transfer_learning_with_MobileNet)
   - [W3A1 - Autonomous Driving - Car Detection](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks/week3/1%20Car_detection%20(Autonomous_driving))
   - [W3A2 - Image Segmentation - U-net](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks/week3/2%20Image_segmentation_Unet)
-  - [W4A1 - Face Recognition](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks/week4/1%20Face_Recognitionm)
+  - [W4A1 - Face Recognition](Convolutional%20Neural%20Networks/week4/1%20Face_Recognition)
   - [W4A2 - Neural Style transfer](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Convolutional%20Neural%20Networks/week4/2%20Neural_Style_Transfer)
   
 - Course 5: Sequence Models

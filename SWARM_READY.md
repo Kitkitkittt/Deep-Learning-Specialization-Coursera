@@ -21,7 +21,7 @@ If a `swarm-ready` skill is installed, load it. Otherwise execute the documented
 
 ## Repository starting point
 
-Read: [README.md](README.md).
+Read the [assignment index](README.md#programming-assignments). Use the directory names in the Git tree to verify assignment links without opening notebooks or following upstream links.
 
 Continue an existing approved issue or a clearly scoped user objective after inspecting the source map below. If none is selected, return the smallest useful improvement and its verifier as the handoff; do not begin a portfolio-wide rewrite.
 
@@ -41,7 +41,13 @@ The base above is an inspection snapshot, not a permanent working branch. Refres
 
 ## Verification starting point
 
-No executable acceptance command was established by this bounded source inspection. Read `README.md` and record the narrowest existing check before implementation. Do not invent a `test` command or infer that the repository has no tests from this gap. For a documentation-only task, check links, factual source anchors and whitespace; do not build unrelated application code.
+For the Course 4 Face Recognition entry, compare the decoded README destination with the tracked directory from the repository root:
+
+```sh
+git --no-lazy-fetch cat-file -t 'HEAD:Convolutional Neural Networks/week4/1 Face_Recognition'
+```
+
+Expect `tree`. This is a path check, not a notebook or model run.
 
 ## Required handoff result
 
